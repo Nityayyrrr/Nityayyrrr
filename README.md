@@ -23,7 +23,7 @@
 │  GUILD  : VIT Bhopal · GDGC Contributor                    │
 │  CGPA   : 9.15 / 10.0                                       │
 │  STATUS : Seeking Internship                                │
-│  QUEST  : Building apps at the intersection of code & games │
+│  QUEST  : Building apps at the intersection of code         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -56,21 +56,11 @@
 ### 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **🏋️ Forge & Flora** | Full-stack cross-platform gym management & coaching app with role-based access and admin dashboard | React Native · Expo · TypeScript · Node.js · MongoDB |
-| **🎓 VConnect** | Student networking app bridging juniors & seniors at VIT Bhopal (GDGC Android Team) | React Native · TypeScript · Firebase · OTP Auth |
-| **🔢 Scientific Calculator** | Fully functional scientific calculator Android app with glass-style UI in MVVM architecture | Kotlin · Jetpack Compose · MVVM |
-| **📱 ThreeTab App** | Multi-tab Android app showcasing clean navigation & component reuse | Kotlin · Jetpack Compose · Navigation |
 
 ---
 
