@@ -1,16 +1,156 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nityayyrrr/Nityayyrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nityay%20Bhavsar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20%C3%97%20Gaming%20Technology%20%7C%20Mobile%20Dev%20%7C%20VIT%20Bhopal&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=React+Native+%7C+TypeScript+%7C+Node.js;Building+apps+at+the+edge+of+code+%26+gaming;9.13+CGPA+%7C+GDGC+Contributor+%7C+Open+Source)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🎮 Character Profile
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  NAME   : Nityay Bhavsar                                    │
+│  CLASS  : CS with Gaming Technology — Class of 2028         │
+│  GUILD  : VIT Bhopal · GDGC Contributor                    │
+│  STATUS : Seeking Internship                                │
+│  QUEST  : Building apps at the intersection of code & games │
+└─────────────────────────────────────────────────────────────┘
+```
+
+> *"Science is what we understand well enough to explain to a computer. Art is everything else we do."*  
+> — Donald Knuth
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nityayyrrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&text_color=ffffff&border_radius=10" alt="GitHub Stats" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nityayyrrr&theme=tokyonight&hide_border=true&background=0d1117&stroke=2c5364&ring=2c5364&fire=ff6b6b&currStreakLabel=ffffff&border_radius=10" alt="Streak Stats" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nityayyrrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" height="150"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 📱 Mobile & Cross-Platform
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+### 🖥️ Frontend & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Nityayyrrr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nityayyrrr&repo=forge-and-flora&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=ffffff&border_radius=10" alt="Forge & Flora"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Nityayyrrr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nityayyrrr&repo=VConnect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=ffffff&border_radius=10" alt="VConnect"/>
+</a>
+
+</div>
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **🏋️ Forge & Flora** | Full-stack cross-platform gym management & coaching app with role-based access and admin dashboard | React Native · Expo · TypeScript · Node.js · MongoDB |
+| **🎓 VConnect** | Student networking app bridging juniors & seniors at VIT Bhopal (GDGC Android Team) | React Native · TypeScript · Firebase · OTP Auth |
+| **🔢 Scientific Calculator** | Fully functional scientific calculator Android app with glass-style UI in MVVM architecture | Kotlin · Jetpack Compose · MVVM |
+| **📱 ThreeTab App** | Multi-tab Android app showcasing clean navigation & component reuse | Kotlin · Jetpack Compose · Navigation |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nityayyrrr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Nityay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nityayyrrr&theme=tokyo-night&bg_color=0d1117&color=2c5364&line=2c5364&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const nityay = {
+  currentlyBuilding : "Forge & Flora — Gym Management App",
+  learning          : ["React Native Animations", "Advanced TypeScript", "System Design"],
+  collaboration     : "Open to internship opportunities",
+  funFact           : "I build software that's as engaging as a video game 🎮",
+  CGPA              : "9.13 / 10.0"
+};
+```
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=About.me&logoColor=white)](https://nityayyrrr.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nityay1601@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nityayyrrr)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" width="100%"/>
+
+<sub>⚡ Powered by code, coffee, and the spirit of gaming. Profile views: <img src="https://komarev.com/ghpvc/?username=Nityayyrrr&color=2c5364&style=flat-square" alt="profile views"/></sub>
+
+</div>
